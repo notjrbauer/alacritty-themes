@@ -7,25 +7,25 @@ schemes:
 
     # Normal colors
     normal:
-      black: '0x282828'
-      red: '0xf43753'
-      green: '0xc9d05c'
-      yellow: '0xffc24b'
-      blue: '0xb3deef'
-      magenta: '0xd3b987'
-      cyan: '0x73cef4'
-      white: '0xeeeeee'
+      black: '0x282828' #0
+      red: '0xf43753' #1
+      green: '0xc9d05c' #2
+      yellow: '0xffc24b' #3
+      blue: '0xb3deef' #4
+      magenta: '0xd3b987' #5
+      cyan: '0x73cef4' #6
+      white: '0xeeeeee' #7
 
     # Bright colors
     bright:
-      black: '0x1d1d1d'
-      red: '0xf43753'
-      green: '0xc9d05c'
-      yellow: '0xffc24b'
-      blue: '0xb3deef'
-      magenta: '0xd3b987'
-      cyan: '0x73cef4'
-      white: '0xfeffff'
+      black: '0x1d1d1d' #8
+      red: '0xf43753' #9
+      green: '0xc9d05c' #10
+      yellow: '0xffc24b' #11
+      blue: '0xb3deef' #12
+      magenta: '0xd3b987' #13
+      cyan: '0x73cef4' #14
+      white: '0xffffff' #15
 
 # Apply scheme
 colors: *tender
